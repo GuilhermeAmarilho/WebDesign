@@ -17,7 +17,16 @@
 - [1ª página criada](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2001%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Web/1%C2%AA%20p%C3%A1gina%20criada.html)
 
 #### Atividade 1 
-- [Base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2002%20-%20Marca%C3%A7%C3%A3o%20-%20Projeto%20IFC/prova-html-Guilherme/site-prova.pdf)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2002%20-%20Marca%C3%A7%C3%A3o%20-%20Projeto%20IFC/prova-html-Guilherme/site-prova.pdf)
 - [Atividade realizada](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2002%20-%20Marca%C3%A7%C3%A3o%20-%20Projeto%20IFC/MeuTrabalhoRevisado/trabalho.html)
 
-#### 
+#### Atividade 2 - Mitra
+- [Descrição da atividade](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2003%20-%20Marca%C3%A7%C3%A3o%20-%20Atividade%20Mitra/arquivos/descricao.pdf)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2003%20-%20Marca%C3%A7%C3%A3o%20-%20Atividade%20Mitra/arquivos/layout-mitra.pdf)
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula%2003%20-%20Marca%C3%A7%C3%A3o%20-%20Atividade%20Mitra)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula%2003%20-%20Marcação%20-%20Atividade%20Mitra)
+
+#### Atividade 3 - Duna
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula%2004%20-%20Marca%C3%A7%C3%A3o%20-%20PROVA%20DE%20PROJETO)
+- [Descrição da atividade](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2004%20-%20Marca%C3%A7%C3%A3o%20-%20PROVA%20DE%20PROJETO/descricao-prova-duna.pdf)
+- [Versão Web](https://guilhermeamarilho.github.io/Aula%2004%20-%20Marcação%20-%20PROVA%20DE%20PROJETO)
