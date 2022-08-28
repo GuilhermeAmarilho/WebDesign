@@ -12,21 +12,50 @@
 - Projetos e atividades realizadas durante o 2º semestre de Ciências da Computação.
 
 #### Introdução
-- [Exemplo prático](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula%2001%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Web/Exemplo)
-- [Meu exemplo](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula%2001%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Web/MeuTrabalho)
-- [1ª página criada](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2001%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Web/1%C2%AA%20p%C3%A1gina%20criada.html)
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula01-Introducao)
+- [1ª página criada](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula01-Introdu%C3%A7%C3%A3o/1PaginaCcriada.html)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula01-Introdu%C3%A7%C3%A3o/index.html)
 
 #### Atividade 1 
 - [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2002%20-%20Marca%C3%A7%C3%A3o%20-%20Projeto%20IFC/prova-html-Guilherme/site-prova.pdf)
 - [Atividade realizada](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2002%20-%20Marca%C3%A7%C3%A3o%20-%20Projeto%20IFC/MeuTrabalhoRevisado/trabalho.html)
 
 #### Atividade 2 - Mitra
-- [Descrição da atividade](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2003%20-%20Marca%C3%A7%C3%A3o%20-%20Atividade%20Mitra/arquivos/descricao.pdf)
-- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2003%20-%20Marca%C3%A7%C3%A3o%20-%20Atividade%20Mitra/arquivos/layout-mitra.pdf)
-- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula%2003%20-%20Marca%C3%A7%C3%A3o%20-%20Atividade%20Mitra)
-- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula%2003%20-%20Marcação%20-%20Atividade%20Mitra)
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula02-ProjetoIFC)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula02-ProjetoIFC/site-prova.pdf)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula02-ProjetoIFC/trabalho.html)
 
 #### Atividade 3 - Duna
-- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula%2004%20-%20Marca%C3%A7%C3%A3o%20-%20PROVA%20DE%20PROJETO)
-- [Descrição da atividade](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula%2004%20-%20Marca%C3%A7%C3%A3o%20-%20PROVA%20DE%20PROJETO/descricao-prova-duna.pdf)
-- [Versão Web](https://guilhermeamarilho.github.io/Aula%2004%20-%20Marcação%20-%20PROVA%20DE%20PROJETO)
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula04-Duna)
+- [Descrição atividade](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula04-Duna/descricao-prova-duna.pdf)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula04-Duna)
+
+#### Atividade 4 - Insight
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula06-Insight)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula06-Insight/base.png)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula06-Insight)
+
+#### Atividade 5 - Organic
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula07-Organic)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula07-Organic/base.png)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula07-Organic)
+
+#### Atividade 6 - Ditch
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula08-Ditch)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula08-Ditch/base.png)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula08-Ditch)
+
+#### Atividade 7 - CabHub
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula09-CabHub)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula09-CabHub/base.jpg)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula09-CabHub)
+
+#### Atividade 8 - Creative
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula10-Creative)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula10-Creative/base.png)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula10-Creative)
+
+#### Atividade 9 - Thousand
+- [Repositório](https://github.com/GuilhermeAmarilho/WebDesign/tree/master/Aula11-Thousand)
+- [Imagem base](https://github.com/GuilhermeAmarilho/WebDesign/blob/master/Aula11-Thousand/base.png)
+- [Versão Web](https://guilhermeamarilho.github.io/WebDesign/Aula11-Thousand)
